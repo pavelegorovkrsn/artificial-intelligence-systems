@@ -1,4 +1,4 @@
-# artificial-intelligence-systems
+# Системы искусственного интеллекта 
 
 ## Стек технологий
 - Java 17
